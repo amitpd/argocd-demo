@@ -17,4 +17,4 @@ spec:
       - name: tomcat
         image: tomcat:8.0-alpine
         ports:
-        - containerPort: 8080
+        - containerPort: 8081
